@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">你的传感器</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_title">本机的传感器有：</string>
+    <string name="btn_name">点击，列出本机中传感器</string>
+
+</resources>
